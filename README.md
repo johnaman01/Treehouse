@@ -2,8 +2,8 @@
 ##Full Stack JavaScript Project
 ###**TO DO 5.11.16**
 
-- [ ] <ol> <li> </li> <li> </li> </ol>
-- [ ] 2. push colordiv.js and index.html
+- [x] <del><ol> <li> </li> <li> </li> </ol></del>
+- [x] <del>2. push colordiv.js and index.html</del> **pushed quiz1.js instead**
 
 :bowtie: :tada: :grin:
 
