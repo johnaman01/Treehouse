@@ -1,14 +1,30 @@
 //quiz code
 
 var quiz = [
-  ['The named value passed to a function is called a(n):', 'parameter'],
-  ['The real value passed to a function is called a(n):', 'argument'],
-  ['The method used with the object array that combines it with another array and returns as a string is:', 'concat'],
-  ['array.(blank) searches an array for a specified value', 'indexOf'],
-  ['The method used to add an item to the end of an array is:', 'push'],
-  ['The method used to add an item to the beginning of an array is:', 'unshift'],
-  ['The method used to remove or retrieve the first item from an array is:', 'shift'],
-  ['One of the most common uses of a for loop in conjunction with an array is called (blank) through and array.', 'iterating'],
+  {
+  question:'The named value passed to a function is called a(n):'
+  answer: 'parameter'
+  },
+  {
+  question:'The real value passed to a function is called a(n):'
+  answer: 'argument'
+  },
+  {
+  question:'The method used with the object array that combines it with another array and returns as a string is:'
+  answer: 'concat'
+  },
+  {
+  question:'array.(blank) searches an array for a specified value'
+  answer: 'indexOf'
+  },
+  {
+  question:'The method used to remove or retrieve the first item from an array is:'
+  answer: 'shift'
+  },
+  {
+  question:'One of the most common uses of a for loop in conjunction with an array is called (blank) through and array.'
+  answer: 'iterating'
+  }
 ];
 
 var correct = [];
@@ -26,8 +42,8 @@ function print (message) {
 }
 
 for ( i = 0; i < quiz.length; i++) {
-  question = quiz[i][0];  
-  answer = quiz[i][1];
+  question = quiz[i].question;  
+  answer = quiz[i].answer;
   response = prompt(question);
 
   if ( response === answer) {

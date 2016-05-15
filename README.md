@@ -12,3 +12,14 @@
 >*You who knows so much
 >must surely know I no longer create
 >instruments of death*
+
+###**TO DO 5.15.16
+
+- [ ] **finish objects video 
+- [ ] begin jquery video
+
+:relieved:
+
+>*'Go, Mountain, and throw yourself into the sea"*
+**The Master**
+
