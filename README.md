@@ -13,13 +13,14 @@
 >must surely know I no longer create
 >instruments of death*
 
-###**TO DO 5.15.16
+###**TO DO 5.15.16**
 
-- [ ] **finish objects video 
-- [ ] begin jquery video
+- [x] **finish objects video**
+- [x] begin jquery video
 
-:relieved:
+:relieved: :laughing: :frowning: :stuck_out_tongue:
 
 >*'Go, Mountain, and throw yourself into the sea"*
-**The Master**
+>**The Master**
 
+:expressionless:
