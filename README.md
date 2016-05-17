@@ -1,26 +1,9 @@
-# codeLouisville-project
-##Full Stack JavaScript Project
-###**TO DO 5.11.16**
-
-- [x] <del><ol> <li> </li> <li> </li> </ol></del>
-- [x] <del>2. push colordiv.js and index.html</del> **pushed quiz1.js instead**
-
-:bowtie: :tada: :grin:
-
-**Hatori Hanzo**
-
->*You who knows so much
->must surely know I no longer create
->instruments of death*
-
+# Treehouse
+##Track: Full Stack JavaScript 
 ###**TO DO 5.15.16**
+- [ ] clean up Githup repos
+- [ ] build directories for every project in Treehouse
+      ex. Treehouse/jQuery/Itsatrap jQuery/spoiler
 
-- [x] **finish objects video**
-- [x] begin jquery video
+>*That will do for tonight.*
 
-:relieved: :laughing: :frowning: :stuck_out_tongue:
-
->*'Go, Mountain, and throw yourself into the sea"*
->**The Master**
-
-:expressionless:
